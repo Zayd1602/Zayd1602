@@ -8,7 +8,8 @@
   <ul>
     <li> 👨🏻‍🎓 A junior pursuing Electronics and Instrumentation Engineering from VIT Vellore.
     <li> 🧐 I love trying out new things.
-    <li> 😇 I'm also interested in Finance, Investments and Politics (let's talk).  
+    <li> 😇 I'm also interested in Finance, Investments and Politics (let's talk). 
+    <li> 👻 I'm new to coding, so help me out.
   </ul>    
 <h2></h2>
 <h3>Ping me! :speech_balloon:</h3>
@@ -19,8 +20,6 @@
  </p>
  
 <!-- 
-I'm from India, living in Raipur. I'm a junior at VIT Vellore pursuing B.Tech in Electronics and Instrumentation Engineering.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
