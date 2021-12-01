@@ -8,7 +8,7 @@
   <ul>
     <li> 👨🏻‍🎓 A junior pursuing Electronics and Instrumentation Engineering from VIT Vellore.
     <li> 🧐 I love trying out new things.
-    <li> 😇 I'm also interested in Finance, Investments and Politics.  
+    <li> 😇 I'm also interested in Finance, Investments and Politics (let's talk).  
   </ul>    
 <h2></h2>
 <h3>Ping me! :speech_balloon:</h3>
