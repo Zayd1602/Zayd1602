@@ -23,15 +23,12 @@
     </span></a>
 </p>
 -->
-
-<!--[Zayd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&show_icons=true&count_private=true&theme=cobalt)-->
+<h2></h2>
 <img align=left width=400 src="https://github-readme-stats.vercel.app/api?username=Zayd1602&show_icons=true&count_private=true&theme=cobalt&&include_all_commits=true"/>
+
 <img align=right width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
-<br>
-<img align=right width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
-<img align=right width=400 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayd1602&theme=dracula"/>
-<!--![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&show_icons=true&count_private=true&theme=cobalt)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayd1602&theme=dracula)-->
+<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
+<img align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayd1602&theme=dracula"/>
 
 <!--
 <a href="https://github.com/Zayd1602/github-readme-stats">
