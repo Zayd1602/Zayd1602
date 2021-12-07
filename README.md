@@ -23,14 +23,20 @@
     </span></a>
 </p>
 -->
-<h2></h2>
-<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=Zayd1602&show_icons=true&count_private=true&theme=cobalt&&include_all_commits=true"/>
 
-<img align=right width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
-<br>
+  <h2></h2>
+<h3>👨‍💻</h3>
+<div align = center>   
+  
+| ![Zayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&count_private=true&hide_border=true&include_all_commits=true&theme=cobalt) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayd1602&layout=compact&hide_border=True&theme=cobalt" />|
+| ------------- | ------------- |
+
 <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
+  <br>
 <img align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayd1602&theme=dracula"/>
-
+</div> 
+  
+  
 <!--
 <a href="https://github.com/Zayd1602/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zayd1602&repo=github-readme-stats" />
