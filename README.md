@@ -11,7 +11,7 @@
     <li> 😇 I'm also interested in Finance, Investments and Politics (let's talk). 
     <li> 👻 I'm new to coding, so help me out.
   </ul>  
-   
+<!--   
 <h2></h2> 
 <h3>Github Stats 👨‍💻</h3> 
 <p align="center">
@@ -22,6 +22,20 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayd1602&theme=dracula" />
     </span></a>
 </p>
+-->
+
+![Zayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&show_icons=true&count_private=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayd1602&show_icons=true&count_private=true&theme=cobalt)](https://github.com/Zayd1602/github-readme-stats)
+
+<!--
+<a href="https://github.com/Zayd1602/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zayd1602&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Zayd1602/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zayd1602&repo=convoychat" />
+</a>
+-->
+
 
 <h2></h2>
 <h3>Ping me! :speech_balloon:</h3>
