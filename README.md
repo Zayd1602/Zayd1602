@@ -33,20 +33,10 @@
 
 <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
   <br>
+<h3></h3>
 <img align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayd1602&theme=dracula"/>
 </div> 
   
-  
-<!--
-<a href="https://github.com/Zayd1602/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zayd1602&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Zayd1602/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zayd1602&repo=convoychat" />
-</a>
--->
-
-
 <h2></h2>
 <h3>Ping me! :speech_balloon:</h3>
  <p><p>
@@ -54,16 +44,3 @@
  <a href= "https://discord.com/channels/Zayd#2162"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href= "https://twitter.com/Md_Z16"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  </p>
- 
-<!-- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
