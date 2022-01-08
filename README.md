@@ -8,27 +8,15 @@
   <ul>
     <li> 👨🏻‍🎓 A junior pursuing Electronics and Instrumentation Engineering from VIT Vellore.
     <li> 🧐 I love trying out new things.
-    <li> 😇 I'm also interested in Finance, Investments and Politics (let's talk). 
+    <li> 😇 I'm also interested in Finance, Investments, Philosophy and Politics (let's talk). 
     <li> 👻 I'm new to coding, so help me out.
   </ul>  
-<!--   
-<h2></h2> 
-<h3>Github Stats 👨‍💻</h3> 
-<p align="center">
-  <a href="https://github.com/Zayd1602"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Zayd1602&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&theme=radical" />
-    <img height="163em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zayd1602&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayd1602&theme=dracula" />
-    </span></a>
-</p>
--->
-
+  
   <h2></h2>
 <h3>My Statistics👨‍💻</h3>
 <div align = center>   
   
-| ![Zayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&count_private=true&hide_border=true&include_all_commits=true&theme=cobalt) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayd1602&layout=compact&hide_border=True&count_private=true&include_all_commits=true&theme=cobalt" />|
+| ![Zayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&count_private=true&hide_border=true&include_all_commits=true&theme=cobalt) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd1602&theme=cobalt)](https://github.com/zayd1602/github-readme-stats) |
 | ------------- | ------------- |
 
 <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
