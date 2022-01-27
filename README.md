@@ -1,6 +1,7 @@
 <div align = center> 
-<h2>Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-  <h3>I am Mohammad Zayd </h3>
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Zayd!;)](https://git.io/typing-svg)
+  
   <img src = "https://github.com/Zayd1602/Zayd1602/blob/main/gifs/wink.gif" height=100/>
   <h1></h1>
   </div> 
