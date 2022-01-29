@@ -4,20 +4,22 @@
   
   <img src = "https://github.com/Zayd1602/Zayd1602/blob/main/gifs/wink.gif" height=100/>
   <h1></h1>
-  </div> 
+  
+</div> 
+  
 <h3>About Me!</h3>
   <ul>
     <li> 👨🏻‍🎓 A junior pursuing Electronics and Instrumentation Engineering from VIT Vellore.
     <li> 🧐 I love trying out new things.
-    <li> 😇 Talk to me about Finance, Investments, Philosophy and Politics. 
     <li> 👻 I'm interested in collaborating on projects.
+    <li> 😇 Talk to me about Finance, Investments, Philosophy and Politics. 
   </ul>  
   
   <h2></h2>
 <h3>My Statistics👨‍💻</h3>
 <div align = center>   
-  
-| ![Zayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&count_private=true&hide_border=true&include_all_commits=true&theme=cobalt) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd1602&theme=cobalt)](https://github.com/zayd1602/github-readme-stats) |
+
+| ![Zayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&count_private=true&hide_border=true&include_all_commits=true&theme=cobalt) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd1602&layout=compact&theme=cobalt)](https://github.com/zayd1602/github-readme-stats) |
 | ------------- | ------------- |
 
 <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
