@@ -1,7 +1,7 @@
 <div align = center> 
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Zayd;)](https://git.io/typing-svg)
-  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Zayd;)
+
   <img src = "https://github.com/Zayd1602/Zayd1602/blob/main/gifs/wink.gif" height=100/>
   <h1></h1>
   
