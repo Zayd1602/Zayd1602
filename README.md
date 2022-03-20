@@ -19,7 +19,7 @@
 <h3>My Statistics👨‍💻</h3>
 <div align = center>   
 
-| ![Zayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&count_private=true&hide_border=true&include_all_commits=true&theme=cobalt) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd1602&layout=compact&theme=cobalt)](https://github.com/zayd1602/github-readme-stats) |
+| ![Zayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zayd1602&count_private=true&hide_border=true&include_all_commits=true&theme=cobalt) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd1602&hide=jupyternotebook&layout=compact&theme=cobalt)](https://github.com/zayd1602/github-readme-stats) |
 | ------------- | ------------- |
 
 <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Zayd1602&show_icons=true&count_private=true&theme=cobalt"/>
