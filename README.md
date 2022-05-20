@@ -9,7 +9,7 @@
   
 <h3>About Me!</h3>
   <ul>
-    <li> 👨🏻‍🎓 A junior pursuing Electronics and Instrumentation Engineering from VIT Vellore.
+    <li> 👨🏻‍🎓 A third year undergraduate pursuing Electronics and Instrumentation Engineering from VIT Vellore.
     <li> 🧐 I love trying out new things.
     <li> 👻 I'm interested in collaborating on projects.
     <li> 😇 Talk to me about Finance, Investments, Philosophy and Politics. 
